@@ -676,4 +676,4 @@ The architecture is scalable from a prototype to a production workload and illus
 
 **Stephanie Makori** | AWS Certified Cloud Practitioner | Computer Science, Egerton University
 
-[LinkedIn](https://www.linkedin.com/in/stephanie-makori) | [GitHub](https://github.com/stephanie-makori)  
+[LinkedIn](https://www.linkedin.com/in/stephaniemakori) | [GitHub](https://github.com/stmakori)  
