@@ -44,6 +44,7 @@ This project implements a user profile system where users sign up, confirm their
 
 ## Architecture Diagram
 <img width="800" height="450" alt="pr" src="https://github.com/user-attachments/assets/1dd42543-0d1c-4a71-a85a-6b1bb1a0843f" />
+
 ## Step-by-Step Implementation
 
 This project is divided into six tasks that must be completed in order.
